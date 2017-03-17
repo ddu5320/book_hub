@@ -3,30 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>childOrder</key>
-	<array>
-		<string>Chapter 02</string>
-	</array>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
+		<dict/>
+		<key>sheetClusters</key>
 		<dict>
-			<key>Chapter 02</key>
+			<key>README.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510200991.779881</real>
 				<key>lastModification</key>
-				<real>510200991.779881</real>
+				<real>511415015.61895001</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>3</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
-		</dict>
-		<key>sheetClusters</key>
-		<dict>
 			<key>note15.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -104,6 +97,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>README.md</string>
+		</array>
+		<array>
 			<string>note21.md</string>
 		</array>
 		<array>
@@ -139,7 +135,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-			<integer>23</integer>
+			<integer>27</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
