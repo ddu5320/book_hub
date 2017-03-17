@@ -6,6 +6,16 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>511414689.896227</real>
+				<key>version</key>
+				<dict>
+					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
 			<key>note01.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -76,72 +86,6 @@
 					<integer>39</integer>
 				</dict>
 			</dict>
-			<key>note08.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201915.55935198</real>
-				<key>lastModification</key>
-				<real>510201915.55935198</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>22</integer>
-				</dict>
-			</dict>
-			<key>note09.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201915.55644399</real>
-				<key>lastModification</key>
-				<real>510201915.55644399</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>21</integer>
-				</dict>
-			</dict>
-			<key>note15.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201920.48749602</real>
-				<key>lastModification</key>
-				<real>510201920.48749602</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>24</integer>
-				</dict>
-			</dict>
-			<key>note16.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201920.48486102</real>
-				<key>lastModification</key>
-				<real>510201920.48486102</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>23</integer>
-				</dict>
-			</dict>
-			<key>readme.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>510208402.82330602</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>43</integer>
-				</dict>
-			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>510200909.40468597</real>
@@ -149,19 +93,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>note16.md</string>
-		</array>
-		<array>
-			<string>note15.md</string>
-		</array>
-		<array>
-			<string>note09.md</string>
-		</array>
-		<array>
-			<string>note08.md</string>
-		</array>
-		<array>
-			<string>readme.md</string>
+			<string>README.md</string>
 		</array>
 		<array>
 			<string>note07.md</string>
@@ -194,7 +126,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-			<integer>44</integer>
+			<integer>45</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
