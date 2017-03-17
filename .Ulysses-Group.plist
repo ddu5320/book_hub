@@ -4,90 +4,75 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>Chapter 00</string>
-		<string>Chapter 01</string>
-		<string>Chapter 02</string>
-		<string>Chapter 03</string>
-		<string>Chapter 04</string>
-		<string>Chapter 05</string>
-		<string>Chapter 06</string>
+		<string>chapter02</string>
+		<string>chapter01</string>
+		<string>chapter03</string>
+		<string>chapter04</string>
+		<string>chapter05</string>
+		<string>chapter06</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>Chapter 00</key>
+			<key>chapter01</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201546.36141902</real>
 				<key>lastModification</key>
-				<real>510201546.36141902</real>
+				<real>511412984.066221</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>43</integer>
+					<integer>53</integer>
 				</dict>
 			</dict>
-			<key>Chapter 01</key>
+			<key>chapter02</key>
 			<dict>
 				<key>lastModification</key>
-				<real>510200944.58063501</real>
+				<real>511412980.03100902</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>26</integer>
+					<integer>52</integer>
 				</dict>
 			</dict>
-			<key>Chapter 02</key>
+			<key>chapter03</key>
 			<dict>
 				<key>lastModification</key>
-				<real>510200991.77771002</real>
+				<real>511412987.95334899</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>33</integer>
+					<integer>54</integer>
 				</dict>
 			</dict>
-			<key>Chapter 03</key>
+			<key>chapter04</key>
 			<dict>
 				<key>lastModification</key>
-				<real>510200980.999717</real>
+				<real>511412993.80728102</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>30</integer>
+					<integer>55</integer>
 				</dict>
 			</dict>
-			<key>Chapter 04</key>
+			<key>chapter05</key>
 			<dict>
 				<key>lastModification</key>
-				<real>510201001.601228</real>
+				<real>511412998.26282799</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>35</integer>
+					<integer>56</integer>
 				</dict>
 			</dict>
-			<key>Chapter 05</key>
+			<key>chapter06</key>
 			<dict>
 				<key>lastModification</key>
-				<real>510201006.47984201</real>
+				<real>511413003.01156902</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>37</integer>
-				</dict>
-			</dict>
-			<key>Chapter 06</key>
-			<dict>
-				<key>lastModification</key>
-				<real>510201011.78827</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>39</integer>
+					<integer>57</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -101,132 +86,6 @@
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
 					<integer>25</integer>
-				</dict>
-			</dict>
-			<key>note01.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201826.14124399</real>
-				<key>lastModification</key>
-				<real>510201924.06577599</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>note02.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201826.12660199</real>
-				<key>lastModification</key>
-				<real>510201826.12660199</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>33</integer>
-				</dict>
-			</dict>
-			<key>note03.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201826.12340099</real>
-				<key>lastModification</key>
-				<real>510201826.12340099</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>32</integer>
-				</dict>
-			</dict>
-			<key>note22.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201973.416646</real>
-				<key>lastModification</key>
-				<real>510201973.416646</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>44</integer>
-				</dict>
-			</dict>
-			<key>note23.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510201973.41301399</real>
-				<key>lastModification</key>
-				<real>510201973.41301399</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>43</integer>
-				</dict>
-			</dict>
-			<key>note29.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510202045.77935499</real>
-				<key>lastModification</key>
-				<real>510202045.77935499</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>65</integer>
-				</dict>
-			</dict>
-			<key>note30.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510202045.77517998</real>
-				<key>lastModification</key>
-				<real>510202045.77517998</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>64</integer>
-				</dict>
-			</dict>
-			<key>note36.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510202050.638578</real>
-				<key>lastModification</key>
-				<real>510202050.638578</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>67</integer>
-				</dict>
-			</dict>
-			<key>note37.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>510202050.63271099</real>
-				<key>lastModification</key>
-				<real>510202050.63271099</real>
-				<key>version</key>
-				<dict>
-					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>66</integer>
 				</dict>
 			</dict>
 			<key>summary.md</key>
@@ -246,37 +105,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>note23.md</string>
-		</array>
-		<array>
-			<string>note22.md</string>
-		</array>
-		<array>
-			<string>note29.md</string>
-		</array>
-		<array>
-			<string>note30.md</string>
-		</array>
-		<array>
-			<string>note37.md</string>
-		</array>
-		<array>
-			<string>note36.md</string>
-		</array>
-		<array>
 			<string>README.md</string>
 		</array>
 		<array>
 			<string>summary.md</string>
-		</array>
-		<array>
-			<string>note03.md</string>
-		</array>
-		<array>
-			<string>note02.md</string>
-		</array>
-		<array>
-			<string>note01.md</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
@@ -288,7 +120,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-			<integer>43</integer>
+			<integer>57</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

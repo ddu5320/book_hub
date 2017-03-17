@@ -1,3 +1,4 @@
+- 第一阶段 色不远人
 - [01 Why 形象管理][1]
 - [02 分寸重于冷暖][2]
 - [03 从“我”出发][3]
@@ -41,45 +42,45 @@
 - [41 无ABC难为][41]
 - [42 结业颁奖][42]
 
-[1]:	note01.md
-[2]:	note02.md
-[3]:	note03.md
-[4]:	note04.md
-[5]:	note05.md
-[6]:	note06.md
-[7]:	note07.md
-[8]:	note08.md
-[9]:	note09.md
-[10]:	note10.md
-[11]:	note11.md
-[12]:	note12.md
-[13]:	note13.md
-[14]:	note14.md
-[15]:	note15.md
-[16]:	note16.md
-[17]:	note17.md
-[18]:	note18.md
-[19]:	note19.md
-[20]:	note20.md
-[21]:	note21.md
-[22]:	note22.md
-[23]:	note23.md
-[24]:	note24.md
-[25]:	note25.md
-[26]:	note26.md
-[27]:	note27.md
-[28]:	note28.md
-[29]:	note29.md
-[30]:	note30.md
-[31]:	note31.md
-[32]:	note32.md
-[33]:	note33.md
-[34]:	note34.md
-[35]:	note35.md
-[36]:	note36.md
-[37]:	note37.md
-[38]:	note38.md
-[39]:	note39.md
-[40]:	note40.md
-[41]:	note41.md
-[42]:	note42.md
+[1]:	chapter01/note01.md
+[2]:	chapter01/note02.md
+[3]:	chapter01/note03.md
+[4]:	chapter01/note04.md
+[5]:	chapter01/note05.md
+[6]:	chapter01/note06.md
+[7]:	chapter01/note07.md
+[8]:	chapter02/note08.md
+[9]:	chapter02/note09.md
+[10]:	chapter02/note10.md
+[11]:	chapter02/note11.md
+[12]:	chapter02/note12.md
+[13]:	chapter02/note13.md
+[14]:	chapter02/note14.md
+[15]:	chapter03/note15.md
+[16]:	chapter03/note16.md
+[17]:	chapter03/note17.md
+[18]:	chapter03/note18.md
+[19]:	chapter03/note19.md
+[20]:	chapter03/note20.md
+[21]:	chapter03/note21.md
+[22]:	chapter04/note22.md
+[23]:	chapter04/note23.md
+[24]:	chapter04/note24.md
+[25]:	chapter04/note25.md
+[26]:	chapter04/note26.md
+[27]:	chapter04/note27.md
+[28]:	chapter04/note28.md
+[29]:	chapter05/note29.md
+[30]:	chapter05/note30.md
+[31]:	chapter05/note31.md
+[32]:	chapter05/note32.md
+[33]:	chapter05/note33.md
+[34]:	chapter05/note34.md
+[35]:	chapter05/note35.md
+[36]:	chapter06/note36.md
+[37]:	chapter06/note37.md
+[38]:	chapter06/note38.md
+[39]:	chapter06/note39.md
+[40]:	chapter06/note40.md
+[41]:	chapter06/note41.md
+[42]:	chapter06/note42.md
